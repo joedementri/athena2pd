@@ -33,13 +33,14 @@ setup(
     # python_requires='>=3.6',
     # install_requires=get_requirements('requirements.txt'),
     zip_safe=False,
-    url='https://github.com/joedementri',
+    url='https://github.com/joedementri/athena2pd',
     classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
+        'Operating System :: OS Independent'
     ],
     python_requires='>3.6'
 )

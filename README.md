@@ -1,4 +1,8 @@
 # athena2pd
+[![](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/download/releases/3.6.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 athena2pd (Amazon Athena to Pandas Dataframe)
 
 ## Installation
