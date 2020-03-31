@@ -33,12 +33,13 @@ setup(
     zip_safe=False,
     url='https://github.com/joedementri/athena2pd',
     classifiers=[
-        'Development Status :: 1 - Planning',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
+        'Programming Language :: Python :: 2.7'
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
         'Operating System :: OS Independent'
     ],
-    python_requires='>3.6'
+    python_requires='>=2.7,>=3.6'
 )

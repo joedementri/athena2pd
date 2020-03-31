@@ -1,5 +1,2 @@
-__version__ = '0.1.2'
-from .test import hello
+__version__ = '0.2.0'
 from .core import AthenaDFConnector
-
-print('hello')
