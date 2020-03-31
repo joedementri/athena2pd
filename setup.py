@@ -22,7 +22,7 @@ setup(
     name='athena2pd',
     packages=['athena2pd'],
     version=find_version('athena2pd/__init__.py'),
-    description='Useful tool to help simplify the access of databases stored in Amazon Athena by using SQL and pandas DataFrames.',
+    description='Help\'s simplify the access of databases stored in Amazon Athena by using SQL and pandas DataFrames.',
     long_description=get_long_desc('README.md'),
     long_description_content_type='text/markdown',
     author='Joe Dementri',
