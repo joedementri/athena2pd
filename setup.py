@@ -26,12 +26,10 @@ setup(
     long_description=get_long_desc('README.md'),
     long_description_content_type='text/markdown',
     author='Joe Dementri',
-    author_email='joedementri42012@gmail.com',
     maintainer='Joe Dementri',
     maintainer_email='joedementri42012@gmail.com',
     license='MIT',
-    # python_requires='>=3.6',
-    # install_requires=get_requirements('requirements.txt'),
+    install_requires=get_requirements('requirements.txt'),
     zip_safe=False,
     url='https://github.com/joedementri/athena2pd',
     classifiers=[
