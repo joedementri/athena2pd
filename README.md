@@ -6,6 +6,12 @@
 
 athena2pd - Amazon Athena to Pandas Dataframe
 
+## About
+
+Useful tool to help simplify the access of databases stored in Amazon Athena by using SQL and pandas DataFrames. 
+
+The end user simply needs to provide the query and the bucket where the results are stored, then this package will run the query and return a DataFrame with the data in it, ready to be used for whatever is desired.
+
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install athena2pd.
 
